@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projekt-inz-258914",
+  "private_key_id": "8a1686242b8ca73039380fe2da742f408bc0fa2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGDBWA9SpT7N2I\nhtGZz1tfFnhFkMaLRN6YJqW8pl889Vl1jT0C6b2eoGUsfct8Qaiiae+R+lnKGPVS\nhnflzfOZgoFuS6gTHc5SGsAFIJ4FP4HRPaM4QsLvrgEnEKqmLgC2x2J80SCAZ6xA\nrN4ykzvJRNXmj+f2WcO4W4IcWsR1mGj+zq7ntNKuWSgQ5oSukYPI0nU2teoG3fhM\nwzuxutGYH2PZj+GYZvHt5VeFcEGEOpFcryVAQhiccsnnOGOFYTR0Qz9ZUQlXAnQi\nubMVuLeMOFxaaWcTgkfPsUU6srYUtEkUaECWKcAuZW34N8I8WrzlNokLDNMPi3tJ\nYrh19nhBAgMBAAECggEAALSW8ETXSfGdW6TSyu3mFvtuEd3dVi5IbnFvTFHpo46C\na0C1uZyeZznuKFOZoaN8e7kdwEbsclPGzmyiEVKLqkWgq0VX17sWwrw7iD0ksPM4\nJbgW7G6w8fB8SrDEkddWu2/v/+6xA2ITJw8SksqrVykAi8viDTKmR8IkL1CLs/lF\nlWPb2p/O4NGOAaQ0jsmIrUEU6ecDL4HIvBbNioJjWbDzYTEXghQKI3vPndI7oZg/\nLBq2LXaA2E/L3CmE1XzfqirgAOyi56A/IqIb+wdV6ngvQrU/hZMZY+2SGOOb0vlV\nVyruADJyQs11ZVhJwYu7nabcB7VptvGd+qn1dTBS0QKBgQDw5KD+ft70dvJVHP8I\nkS97Y6+GaPyjelEws/+QVFvF2Cy+gqizTS7sulukpyfX0/KvvJ3p34Npq1n1VBNb\nSXHb8c4v0W891MIAfOKceomSOWy1QZoGk6RQ+hXSMfINTDXQPOKxPH68jCm+vMmS\nsLtP9PyhlnBi5RXMVZTHwx2mcQKBgQDSd5gjtrnDe8944XCw1LKblDb33lK16BXN\nSaCAmHZvY8XhKA1pvOAv8f/j74PAuAXKEst9q83njcNyIIpFbwtZSXTN85yedsbH\niVVIw4z4b/PFX2XHGAg5SghDt3Fl3YAdaEH/5HPih5qrinY7Pgv0OjV0gaC0CpEv\nKIMHXGH20QKBgBYHQjWjkm3WhriDy0qURDxLVFy9MwUcBVqnyyH+pNnFt+m/9v9W\neokJTaIT6w/QgOvTGrmtR84c7kAB7Tc20yOizBERXNPRpd/3i511kyj8+VTl59jc\nHXWOOPqcuJ7ArlcZij1c49YIFzUq/F/eq3JXW9bG9AYHHuQtm0pdLFPxAoGAPgj8\nMgKo7IKw24tvgN+gqZTdQuAn9vAqhPDfuye1OQ3qhHwev/zpA5jL+O5fIk3bfv1d\nN3SNY2P4qMoIl4CskqvBHvdgQaD25FeJaMIi6hNtgc6lnDJsMh6tIvCOHx1TptdV\nJMy8j5eysj9ErB+UvG7v1KBkssyukHzbai8DvRECgYEAt7mgpTNHLa2JxbrFCqL9\nRo6JHpfHtTeB9ryUp0coj7aR3X9gcAkzsp/KAZ0Zx4wAem6YHA0nV6zg0Hv0h6vQ\nPUWM7k0y/4peerrbS+DhuP1awRqm9WWHaVguiboTT8DqXyWF7bcs2FvjHcWSyuhh\nC0EyUE3xGWIyL8EjO5WabTQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gronek@projekt-inz-258914.iam.gserviceaccount.com",
+  "client_id": "109385390085148088255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gronek%40projekt-inz-258914.iam.gserviceaccount.com"
+}

@@ -1,0 +1,48 @@
+Dane osobowe zawarte w "Demonstracja Audiowizualna...", zostały utworzone na potrzebe demonstracyjną nie zawierają autentycznych danych.
+
+Aplikacja przeprowadzająca wstępną rozmwoe kwalifikacyjną na stanowisko menadźera, napisana w języku Python przy pomocy pyCharm
+zbudowana wzorując sie na aplikacji firmy D-labs na Hacathon 2019.
+Współpracując z firmą D-labs wyznaczając dr. Macieja Karpicza na konsultanta do spraw projektu inżynierskiego.
+Pomysł wykonany przez Piotra Gronka studenta semestru inżynierskiego ,Politechniki Gdańskiej wydziału FTiMS.
+
+opis :
+
+_pycache_ - folder zawierający pliki autogenerowane
+
+_init_.py - pusty plik inicjalizacyjny
+
+data.dat - zapis z przeprowadzonej z programem rozmowy
+
+key.json - treść klucza potrzebnego do połączenia z google api wykorzystanego w aplikacji
+
+Demonstracja Audiowizualna działania aplikacji.mp4 - nagranie przebiegu działania aplikacji wraz z dzwiękiem wchodzącym oraz wychodzącym ,wymagane do wglądu z powodu utrudnień związanych z uruchomieniem aplikacji na innych urządzeniach, wywołanym brakiem posiadanych bibliotek oraz połączenia z google api
+
+main.py - główna częśc aplikacji , przebieg oraz zawarte metody
+
+output.wav - plik dzwiękowy aktualizowany w trakcie rozmowy wymagany do obsługi otwrzymywanych i nadawanych przez aplikacje tresci głosowych
+
+README - plik z opisem poszczególnych elementów do wglądu
+
+stts.py - plik zawierający metody obsługujące dzwięk wchodzący
+
+tts.py - plik zawierający metody obsługujące dzwięk wychodzący
+
+
+System Wag pytań oraz przyznawania za nie punkty powstał na podstawie wywiadów
+przeprowadzonych z anonimowymi rekruterami.
+W orginalej wersji wyglądający nastepująco:
+
+1. Doświadczenie w zawodzie - 9
+2. Gdzie pracował wcześniej ? - 8
+3. Staż pracy - 7
+4. Metodyki zarządzania (przy stanowisku managera bardzo istotne) - 8
+5. Jak poradził sobie ze sporem w zespole - 7
+6. Jak reaguje na zmiany - 7
+7. Woli dynamiczne środowisko, czy spokojnie bez zaskoczeń - 5
+8. Dlaczego zmienia pracę - 8
+9. Czego nie lubił w poprzedniej pracy - 5
+10. Za 5 lat co chciałby robić zawodowo - 5
+11. Mocne i słabe strony - 5
+12. Wykształcenie - 5
+13. Uczelnia - 1
+14. Hobby - 1
